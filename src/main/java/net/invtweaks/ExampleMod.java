@@ -1,8 +1,7 @@
-package net.glasslauncher.example;
+package net.invtweaks;
 
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.item.ItemBase;
-import org.lwjgl.Sys;
 
 public class ExampleMod implements ModInitializer {
 	@Override
